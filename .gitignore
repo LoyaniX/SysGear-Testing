@@ -1,0 +1,11 @@
+# This file for my IDEA IDE
+# Reference is: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# Project files
+*.iws
+*.iml
+
+# Out and config
+out/
+.idea/
+target/
